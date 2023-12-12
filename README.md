@@ -1,6 +1,6 @@
 ## LIVE DEMO :- <a href="https://swathi-prime-video-clone.netlify.app/">Prime Video Clone</a>
 
-### Refer to the video below:
+<!-- ### Refer to the video below:
 
 <br/>
 <div style="text-align: center;">
@@ -8,7 +8,7 @@
     <source src="https://assets.ccbp.in/frontend/content/react-js/prime-video-output.mp4" type="video/mp4">
   </video>
 </div>
-<br/>
+<br/> -->
 
 ### Design Files
 
